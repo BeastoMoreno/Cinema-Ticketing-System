@@ -1,0 +1,65 @@
+======================================
+     Bookings for Movie: 1 - Inside Out 2
+======================================
+Seat Layout:
+======================================
+Row 1:	O          O          O          O          O          O          
+Row 2:	O          O          O          O          O          O          
+Row 3:	O          O          O          O          O          O          
+Row 4:	O        ALIFF        O          O          O          O          
+Row 5:	O          O          O          O          O          O          
+======================================
+Hint: O - Available, customer name - Booked
+======================================
+======================================
+     Bookings for Movie: 2 - How To Make Millions Before Grandma Died
+======================================
+Seat Layout:
+======================================
+Row 1:	O          O          O          O          O          O          
+Row 2:	IZZU       O          O          O          O          O          
+Row 3:	O          O          O          O          O          O          
+Row 4:	O          O          O          O          O          O          
+Row 5:	O          O          O          O          O          O          
+======================================
+Hint: O - Available, customer name - Booked
+======================================
+======================================
+     Bookings for Movie: 3 - Haikyu !! : The Dumpster Battle
+======================================
+Seat Layout:
+======================================
+Row 1:	O          O          O          O          O          O          
+Row 2:	O          O          O          O          O          O          
+Row 3:	O          O          O         ZACK        O          O          
+Row 4:	O          O          O          O          O          O          
+Row 5:	O          O          O          O          O          O          
+======================================
+Hint: O - Available, customer name - Booked
+======================================
+======================================
+     Bookings for Movie: 4 - Bad Boys Ride or Die
+======================================
+Seat Layout:
+======================================
+Row 1:	O          O          O          O          O          O          
+Row 2:	O          O          O          O          O         MAT       
+Row 3:	O          O          O          O          O          O          
+Row 4:	O          O          O          O          O          O          
+Row 5:	O          O          O          O          O          O          
+======================================
+Hint: O - Available, customer name - Booked
+======================================
+======================================
+     Bookings for Movie: 5 - The Garfield Movie
+======================================
+Seat Layout:
+======================================
+Row 1:	O          O          O          O          O          O          
+Row 2:	O          O          O          O          O          O          
+Row 3:	O          O          O          O          O          O          
+Row 4:	O          O          O          O          O          O          
+Row 5:	O          O          O          O          O          O          
+======================================
+Hint: O - Available, customer name - Booked
+======================================
